@@ -36,7 +36,7 @@ font-family: 'Ubuntu', sans-serif;
   }
   /* Navigation dropdown menu */
   .dropdown-menu {
-    background: url("../images/transparency.png");
+    background: url("transparency.png");
     background-color: transparent !important;
     background-size: cover;
   }
@@ -61,7 +61,7 @@ font-family: 'Ubuntu', sans-serif;
   
   /* Jumbotron  */
   .jumbotron {
-    background-image: url(../images/bck2.jpg);
+    background-image: url(bck2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     height: 550px;
@@ -98,7 +98,7 @@ font-family: 'Ubuntu', sans-serif;
   /* ABOUT ME*/
   .aboutme {
     /* margin-top: 10%; */
-    background-image: url(../images/bck6.jpg);
+    background-image: url(bck6.jpg);
     height: 480px;
   }
   #pannel {
@@ -135,7 +135,7 @@ font-family: 'Ubuntu', sans-serif;
   
   #skills {
     margin-top: 3%;
-    background-image: url(../images/bck7.png);
+    background-image: url(bck7.png);
   }
   
   
@@ -201,7 +201,7 @@ font-family: 'Ubuntu', sans-serif;
   }
   
   .row1 {
-    background-image: url(../images/bck4.png);
+    background-image: url(bck4.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -223,7 +223,7 @@ font-family: 'Ubuntu', sans-serif;
   }
   
   .row2 {
-    background-image: url(../images/bck4.png);
+    background-image: url(bck4.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -247,7 +247,7 @@ font-family: 'Ubuntu', sans-serif;
   
   
   .row3 {
-    background-image: url(../images/bck4.png);
+    background-image: url(bck4.png);
     padding: 25px;
     height: 200px;
     width: 1400px;
@@ -282,7 +282,7 @@ font-family: 'Ubuntu', sans-serif;
   }
 
   .contact {
-    background-image: url(../images/bck8.jpg);
+    background-image: url(bck8.jpg);
   }
 
   .card {
